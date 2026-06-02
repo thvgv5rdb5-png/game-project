@@ -1,3 +1,4 @@
+ // Game project for college assignment
 #include <iostream>
 #include <vector>
 #include <string>
