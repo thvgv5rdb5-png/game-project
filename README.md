@@ -2,7 +2,8 @@
 College project. Simple game written in C++.
 Game Project
 
-Описание
+Описание:
+
 Консольная игра на C++ для учебного проекта.
 
 Технологии
